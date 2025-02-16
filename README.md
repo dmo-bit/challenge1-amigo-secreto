@@ -13,6 +13,7 @@ Selecciona un amigo al azar, mostrando el resultado.
 
 
 Tecnologías Utilizadas
+
 HTML5
 
 CSS3: Estilos y diseño.
