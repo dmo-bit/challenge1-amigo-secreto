@@ -1,4 +1,5 @@
 Amigo Secreto
+
 Una aplicación web para organizar el juego del Amigo Secreto. 
 Esta herramienta permite agregar nombres de amigos, 
 sortear un amigo de forma aleatoria y reiniciar el juego automáticamente.
@@ -13,7 +14,9 @@ Selecciona un amigo al azar, mostrando el resultado.
 
 Tecnologías Utilizadas
 HTML5
+
 CSS3: Estilos y diseño.
+
 JavaScript: Lógica y funcionalidad.
 
 Uso
